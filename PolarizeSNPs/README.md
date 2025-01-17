@@ -18,4 +18,4 @@ This script polarizes a VCF file by an outgroup. It adjusts the alleles so that 
 
 #### Usage
 ```bash
-python polarize_snps.py <input_vcf> <outgroup> <output_vcf>
+python vcf_polarizeDerived.py <input_vcf> <outgroup> <output_vcf>
